@@ -1,0 +1,21 @@
+{
+  "model": "GeneExpressionDNN",
+  "model_path": "C:\\VScode\\ngs-moa-classifier\\models\\dnn_model.pth",
+  "external_path": "C:\\VScode\\ngs-moa-classifier\\data\\raw\\external\\GSE100928_series_matrix.txt",
+  "gpl_path": "C:\\VScode\\ngs-moa-classifier\\data\\raw\\external\\GPL6244-17930.txt",
+  "APPLY_LOG2": true,
+  "CLIP_Z": 8.0,
+  "train_X_shape": [
+    6,
+    46427
+  ],
+  "n_external_samples": 30,
+  "n_features(input_dim)": 46427,
+  "matched_features_observed": 19380,
+  "match_rate_observed": 0.4174295129989015,
+  "n_pred_1": 0,
+  "n_pred_0": 30,
+  "proba_min": 0.1844298541545868,
+  "proba_max": 0.18787433207035065,
+  "proba_mean": 0.18587616086006165
+}

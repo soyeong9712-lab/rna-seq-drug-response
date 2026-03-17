@@ -1,0 +1,15 @@
+﻿pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+openpyxl==3.1.5
+matplotlib==3.9.2
+joblib==1.4.2
+seaborn==0.13.2
+scipy==1.11.4
+streamlit==1.38.0
+
+# [추가] 딥러닝 관련
+torch
+torchvision
+torchaudio
+gprofiler

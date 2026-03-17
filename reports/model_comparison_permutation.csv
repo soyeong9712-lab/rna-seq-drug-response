@@ -1,0 +1,2 @@
+model,loocv_accuracy,loocv_auc,perm_mean_acc,perm_std_acc,perm_p_value
+Logistic_L2,1.0,1.0,0.5433333333333333,0.23643180835073777,0.15

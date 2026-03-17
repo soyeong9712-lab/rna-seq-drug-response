@@ -1,0 +1,6 @@
+source,native,name,p_value,intersection_size,term_size
+GO:CC,GO:0045095,keratin filament,0.0012888118864152578,7,93
+GO:BP,GO:0032502,developmental process,0.0073793976996400935,68,6553
+GO:BP,GO:0048856,anatomical structure development,0.0338277863788462,62,5997
+KEGG,KEGG:00330,Arginine and proline metabolism,0.03805779422350499,4,48
+GO:CC,GO:0071944,cell periphery,0.04829574044120596,65,6347

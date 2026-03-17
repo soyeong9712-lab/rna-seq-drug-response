@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Train (LOOCV + Voting)",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/models/train.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+﻿단계,유전자 수,비고
+Raw 데이터,46427,전체 유전자
+저발현 필터 후,22607,34% 기준 필터링 (6개 샘플 중 최소 2개 이상 발현)
+Feature Selection 후,300,Logistic L2 기반 SelectFromModel

@@ -1,0 +1,6 @@
+﻿Source,Term,p_value,Intersection_size,Term_size,생물학적_의미
+GO:CC,Keratin filament,0.001289,7,93,"세포 골격 구조, EMT와 연관"
+GO:BP,Developmental process,0.007379,68,6553,세포 분화 및 발달 프로그램
+GO:BP,Anatomical structure development,0.033828,62,5997,구조적 발달 과정
+KEGG,Arginine and proline metabolism,0.038058,4,48,아미노산 대사 경로
+GO:CC,Cell periphery,0.048296,65,6347,"세포막/세포 상호작용, EMT 관련"
